@@ -1,0 +1,48 @@
+html{
+    background-color: black;
+}
+.post{
+    background-color: whitesmoke;
+    margin: 25%;
+    height: 700px;
+    width: 500px;
+    display: block;
+  
+} 
+
+
+#html5name{
+    display: flex;
+    align-items: right;
+}
+.name{
+    margin-top: 0%;
+    padding-left: 50px;
+}
+
+
+.threedots{
+    height: 50px;
+    width: 50px;
+}
+
+.first-sec {
+    display:flex;
+    justify-content: space-between;
+}
+
+.bottom-sec{
+    display: flex;
+    justify-content: space-between;
+}
+.bookmark{
+    width: 50%;
+    float: right;
+    margin: 0;
+}
+.threeicons{
+    width: 50%;
+    float: left;
+    margin: 0;
+    
+}
